@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(231, 231, 231) !important;
+}
+:root {
+  --app-color: #6c318c;
+}
+.text-app {
+  color: var(--app-color) !important;
+}
+.bg-app {
+  background-color: var(--app-color) !important;
+}
+
+.pointer {
+  cursor: pointer !important;
+}
+
+.bold {
+  font-weight: bold !important;
+}
